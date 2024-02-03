@@ -5,8 +5,8 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.Period;
 
-/** Domain entity: a Person, e.g., a {@link Companion} or {@link Fluffie}. */
-public interface Person {
+/** Domain entity: a Actor, e.g., a {@link Companion} or {@link Fluffie}. */
+public interface Actor {
 
     /**
      * Unique handle attribute.

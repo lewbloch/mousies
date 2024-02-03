@@ -4,8 +4,8 @@ package com.lewscanon.mousie.entity;
 import java.time.ZonedDateTime;
 import java.util.List;
 
-/** Domain entity: in the stable of a {@link Companion}. */
-public interface Mousie extends Person {
+/** Domain entity: {@code Mousie} in the stable of a {@link Companion}, hunted by {@link Fluffie}s. */
+public interface Mousie extends Actor {
     /**
      * {@link Companion} for this {@link Mousie}.
      * @return associated {@link Companion}.
