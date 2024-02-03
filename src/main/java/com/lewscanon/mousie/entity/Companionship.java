@@ -1,0 +1,5 @@
+/* Copyright © 2024 Lewis S. Bloch. All rights reserved. */
+package com.lewscanon.mousie.entity;
+
+public record Companionship() {
+}
