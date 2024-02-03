@@ -1,2 +1,2 @@
 /* Copyright © 2024 Lewis S. Bloch. All rights reserved. */
-package com.lewscanon.mousie;
+package com.lewscanon.mousie.entity.reified;
